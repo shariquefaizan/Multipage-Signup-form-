@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "FirstName": "subham",
+      "LastName": "kumar",
+      "Number": "9534098040",
+      "Hobbies": " ",
+      "Gender": "MALE",
+      "id": 1
+    },
+    {
+      "Tenthper": "85",
+      "Twelvthper": "58",
+      "Twelvthstream": "Math",
+      "Gradper": "85",
+      "Gradstream": "B-TECH",
+      "id": 2
+    },
+    {
+      "profile_picture": "C:\\fakepath\\images.png",
+      "Tenth_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "Twelve_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "Graduation_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "id": 3
+    },
+    {
+      "Email": "sanjev@gmail.com",
+      "password": "sanjeev@qwe",
+      "cpassword": "sanjeev@qwe",
+      "id": 4
+    },
+    {
+      "FirstName": "hello",
+      "LastName": "hello two",
+      "Number": "9874563210",
+      "Hobbies": " ",
+      "Gender": "MALE",
+      "id": 5
+    },
+    {
+      "Tenthper": "85",
+      "Twelvthper": "88",
+      "Twelvthstream": "Math",
+      "Gradper": "78",
+      "Gradstream": "B-TECH",
+      "id": 6
+    },
+    {
+      "profile_picture": "C:\\fakepath\\1649147161recycling-symbol-color-silhouette.svg",
+      "Tenth_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "Twelve_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "Graduation_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "id": 7
+    },
+    {
+      "Email": "shar@gmail.com",
+      "password": "123456789",
+      "cpassword": "123456789",
+      "id": 8
+    },
+    {
+      "Tenthper": "85",
+      "Twelvthper": "58",
+      "Twelvthstream": "Math",
+      "Gradper": "58",
+      "Gradstream": "B-TECH",
+      "id": 9
+    },
+    {
+      "profile_picture": "C:\\fakepath\\images.png",
+      "Tenth_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "Twelve_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "Graduation_marksheet": "C:\\fakepath\\Please_DocuSign_Sharique_Faizan_AGREEMENT.do.pdf",
+      "id": 10
+    },
+    {
+      "FirstName": "sharique ",
+      "LastName": "alam",
+      "Number": "9534098040",
+      "Hobbies": " ",
+      "Gender": "MALE",
+      "id": 11
+    }
+  ]
+}
